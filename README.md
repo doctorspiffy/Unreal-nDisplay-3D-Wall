@@ -2,3 +2,5 @@ This repository contains a step-by-step guide for setting up stereoscopic render
 
 You can also download a demo project here:
 https://drive.google.com/drive/folders/1qSZGTUMQV6DGC1cf-OU2ytmE86onJn0C?usp=sharing
+
+This work is funded in part by the National Science Foundation award OIA-2149133.
