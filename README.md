@@ -1,4 +1,4 @@
-This repository contains a step-by-step guide for setting up stereoscopic rendering on LAVA’s 3D display wall and the Samsung Odyssey 3D display using Unreal Engine’s nDisplay, including the respective nDisplay assets (see above).
+This repository contains a step-by-step guide for setting up stereoscopic rendering on LAVA’s 3D display wall and the Samsung Odyssey 3D display using Unreal Engine’s nDisplay, including the respective nDisplay assets (see above pdf for instructions).
 
 The asset for Odyssey should work for the Acer SpatialLabs PRO display (not the regular non-pro display).
 
